@@ -3,6 +3,7 @@ from ultralytics import YOLO
 from PIL import Image
 from io import BytesIO
 import numpy as np
+import cv2
 
 # Load YOLOv8 model
 model = YOLO('best.pt')
