@@ -18,3 +18,4 @@ This readme provides instructions for running two types of image segmentation mo
 
 #### Web-App Usage
 Access the web-app link to interact with the deployed YOLOv8 model. Upload images to observe segmentation results firsthand.
+[https://imagesegmentationwebapp.streamlit.app/](Web App Link)
